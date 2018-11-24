@@ -1,2 +1,2 @@
 # adytm
-project1 test
+just a project testing
